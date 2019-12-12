@@ -1,2 +1,5 @@
 # hello-world
-this is a repository created for training purposes
+
+this is firstly changed readme file
+and blablabla
+
